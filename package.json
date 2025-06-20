@@ -1,0 +1,17 @@
+{
+  "name": "react-node.js-booking-app-1",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=k3Vfj-e1Ma4",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
